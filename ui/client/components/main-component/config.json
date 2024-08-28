@@ -1,0 +1,8 @@
+{
+  "script":"main-component/MainComponent",
+  "id":"MainComponent",
+  "data": {},
+  "dependencies":{
+    "@eui/lit-component":"0.12.x"
+  }
+}

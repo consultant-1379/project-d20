@@ -1,0 +1,8 @@
+{
+  "script":"job10-displayarea-component/Job10DisplayareaComponent",
+  "id":"Job10DisplayareaComponent",
+  "data": {},
+  "dependencies":{
+    "@eui/lit-component":"0.12.x"
+  }
+}

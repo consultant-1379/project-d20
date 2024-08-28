@@ -1,0 +1,43 @@
+{
+  "script": "app-1/App1",
+  "title": "APP_1",
+  "route": "app-1",
+  "localePath": "locale/",
+  "menu": {
+    "id": "APP_1",
+    "data": {
+      "path": "app-1"
+    }
+  },
+  "dependencies": {
+    "@eui/component": "0.10.x",
+    "@eui/lit-component": "0.12.x",
+    "@eui/app": "0.12.x"
+  },
+  "components": {
+    "panel-component": "0.0.0",
+    "displayarea-component": "0.0.0",
+    "job1component": "0.0.0",
+    "main-component": "0.0.0",
+    "job2-main-component": "0.0.0",
+    "job3-main-component": "0.0.0",
+    "job4-main-component": "0.0.0",
+    "job5-main-component": "0.0.0",
+    "job6-main-component": "0.0.0",
+    "job7-main-component": "0.0.0",
+    "job8-main-component": "0.0.0",
+    "job9-main-component": "0.0.0",
+    "job10-main-component": "0.0.0",
+    "job2-displayarea-component": "0.0.0",
+    "job3-displayarea-component": "0.0.0",
+    "job4-displayarea-component": "0.0.0",
+    "job5-displayarea-component": "0.0.0",
+    "job6-displayarea-component": "0.0.0",
+    "job7-displayarea-component": "0.0.0",
+    "job8-displayarea-component": "0.0.0",
+    "job9-displayarea-component": "0.0.0",
+    "job10-displayarea-component": "0.0.0",
+    "calender-component": "0.0.0"
+  },
+  "subtitle": "SUBTITLE_APP_1"
+}

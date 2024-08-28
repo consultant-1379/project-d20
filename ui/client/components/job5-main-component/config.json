@@ -1,0 +1,8 @@
+{
+  "script":"job5-main-component/Job5MainComponent",
+  "id":"Job5MainComponent",
+  "data": {},
+  "dependencies":{
+    "@eui/lit-component":"0.12.x"
+  }
+}

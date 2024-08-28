@@ -1,0 +1,13 @@
+/* style goes here */
+/* style goes here */
+:host{
+  display: block;
+}
+.layout__dashboard {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* three column layout*/
+  row-gap: var(--space-small);
+  column-gap: var(--space-small);
+  padding-bottom: var(--space-small);
+  --layer2: #EBEBEB;
+}
